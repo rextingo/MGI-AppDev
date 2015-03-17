@@ -1,2 +1,2 @@
-# Maxs-NKM
-Ninong ko si Max
+# MGI-AppDev
+Max's Group Inc 
